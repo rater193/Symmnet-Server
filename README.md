@@ -8,9 +8,8 @@ The purpose of this was to get quickly develop a mmo, without doing much work. B
 
 ---
 Features:
-	- Infinite map size.
-	- Scriptable, interactable objects.
-	- Multi-Threaded Chunk Management.
-	- Multi-Threaded Entity Management.
-	
-	Those are just a few to name off the top of my head.
+<br/>	- Infinite map size.
+<br/>	- Scriptable, interactable objects.
+<br/>	- Multi-Threaded Chunk Management.
+<br/>	- Multi-Threaded Entity Management.
+<br/>	- AND MORE!
